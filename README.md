@@ -11,3 +11,4 @@ Steps: <br>
 4 pieces from step 3 are used to connect a circuit. <br>
 5 when 4 is correct, dot matrix maze turns on. playable by gyroscope.
 
+All of this information is also to be found in this project's Github Projects
