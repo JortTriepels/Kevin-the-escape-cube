@@ -2,7 +2,7 @@
 Gilde project challenge : making an escape room/object
 
 
-**Order of operations
+## Order of operations
 
 Steps: <br>
 1 startcode, derived from fysical puzzle. (timer starts) <br>
