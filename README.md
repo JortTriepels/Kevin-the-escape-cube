@@ -9,6 +9,9 @@ Steps: <br>
 2 figure out "water flow" through potentiometers. <br>
 3 when 2 is correct. A hidden drawer containting puzzle pieces opens. <br> 
 4 pieces from step 3 are used to connect a circuit. <br>
-5 when 4 is correct, dot matrix maze turns on. playable by gyroscope.
+5 when 4 is correct, dot matrix maze turns on. playable by gyroscope. <br>
+
+**Tile size for each side of kevin will be 15 x 15 cm.**
+
 
 All of this information is also to be found in this project's Github Projects
