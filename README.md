@@ -14,4 +14,11 @@ Steps: <br>
 **Tile size for each side of kevin will be 15 x 15 cm.**
 
 
+# STL Files <br>
+Cube frame: https://www.thingiverse.com/thing:6085508 <br>
+*Cube is sized to 85% in slicer settings to fit the bambu a1 mini print bed.* <br>
+Cube frame size is 17 x 17 x 17 cm. <br>
+Jigsaw puzzle ideas : https://www.thingiverse.com/thing:890639 <br>
+
+
 All of this information is also to be found in this project's Github Projects
