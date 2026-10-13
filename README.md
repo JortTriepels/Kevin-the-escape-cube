@@ -22,3 +22,9 @@ Jigsaw puzzle ideas : https://www.thingiverse.com/thing:890639 <br>
 
 
 All of this information is also to be found in this project's Github Projects
+
+# cube sides done by: <br>
+Jort, A battery side, B drawer side with display <br>
+Josiah, E Numpad wiht 7 seg display <br>
+Dimitar, D Puzzle pieces  <br>
+Luuk, C potentiometer 
