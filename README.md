@@ -10,6 +10,7 @@ Steps: <br>
 3 when 2 is correct. A hidden drawer containting puzzle pieces opens. <br> 
 4 pieces from step 3 are used to connect a circuit. <br>
 5 when 4 is correct, dot matrix maze turns on. playable by gyroscope. <br>
+6 The timer is an integrated part of the cube's build, displaying how much time is left. <br>
 
 **Tile size for each side of kevin will be 15 x 15 cm.**
 
